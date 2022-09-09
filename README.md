@@ -1,1 +1,1 @@
-# currency-price-analysis
+# Currency Price Analysis
