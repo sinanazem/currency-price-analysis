@@ -6,3 +6,5 @@
 sample database on your localhost.
 2. Crawl the price data of USD to IRT from the website below:
 https://www.tgju.org/profile/price_dollar_rl/history
+3. Store the obtained data into the database you just created
+on a sample table.
