@@ -8,3 +8,6 @@ sample database on your localhost.
 https://www.tgju.org/profile/price_dollar_rl/history
 3. Store the obtained data into the database you just created
 on a sample table.
+4. reads the data from the database, and plots:
+a. Final daily close values (daily close prices)
+b. Daily candlestick chart
